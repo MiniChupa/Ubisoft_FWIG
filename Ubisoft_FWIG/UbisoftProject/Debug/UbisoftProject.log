@@ -1,0 +1,5 @@
+﻿  AABB.cpp
+  Character.cpp
+  UbisoftProject.cpp
+  Génération de code en cours...
+Framework.lib(app.obj) : fatal error LNK1112: type d'ordinateur module 'x64' en conflit avec le type d'ordinateur cible 'x86'
